@@ -1,7 +1,7 @@
 # Network Resource Reservation System (TCP + SDN)
 
 Computer Networks mini project (Project 15), PES University.
-Team: Devansh Singh Yadav (PES2UG25CS159), Chitra Likith Kumar (PES2UG25CS142), Chinmay Shridhar Naik (PES2UG25CS139).
+Team: Devansh Singh Yadav (PES2UG25CS159)
 Guide: Sharavana K
 
 ## What it does
